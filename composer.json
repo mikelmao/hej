@@ -1,5 +1,5 @@
 {
-    "name": "renoki-co/hej",
+    "name": "mikelmao/hej",
     "description": "Hej! is a simple authentication boilerplate for Socialite.",
     "keywords": [
         "laravel",
@@ -15,11 +15,16 @@
         "google"
     ],
     "license": "Apache-2.0",
-    "homepage": "https://github.com/renoki-co/hej",
+    "homepage": "https://github.com/mikelmao/hej",
     "authors": [
         {
             "name": "Alex Renoki",
             "homepage": "https://github.com/rennokki",
+            "role": "Developer"
+        },
+        {
+            "name": "Michael Guimaraes",
+            "homepage": "https://github.com/mikelmao",
             "role": "Developer"
         }
     ],
